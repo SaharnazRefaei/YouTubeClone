@@ -5,4 +5,4 @@
 <p>✳️A modern YouTube clone application consisting of video sections, custom categories and channel pages.✳️</p>
 
 <p>📍 Built using ReactJS, Material UI 5 and axios for fetching data from RapidAPI.</P>
-<p>📍 You can visit Online "MYTube Website" here: https://quiet-choux-807126.netlify.app </P>
+<p>📍 You can visit Online "MYTube Website" here: https://mytubegram.netlify.app </P>
