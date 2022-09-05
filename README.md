@@ -1,4 +1,4 @@
-<p>✨MyTube </p>
+<p>✨YouTube Clone </p>
 
 <img src="https://user-images.githubusercontent.com/102354875/187091340-05ff0ee5-6774-4289-9e29-d6075b70fe3d.png"></img>
 
